@@ -3,6 +3,11 @@
 
 Clean Architecture sample in Kotlin using Architecture Components, Retrofit, Coroutines and Koin
 
+### To run the app add your TMDb API KEY
+
+- Get your TMDb API KEY [here](https://developers.themoviedb.org/3/getting-started/introduction)
+- Open the tmdb.properties file and add your API KEY
+
 ## Dependencies
 
 - AndroidX [version: '1.2.0'](https://mvnrepository.com/artifact/androidx.core)
